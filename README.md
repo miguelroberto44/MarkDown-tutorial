@@ -112,7 +112,8 @@ Você também pode colocar links apenas clicando na ferramenta ''link''
 
 Colocar imagens
 ---
-<img width="376" height="43" alt="Image" src="https://github.com/user-attachments/assets/30a546ce-d5ab-4a9e-8d6f-5722509bf45c" />
+<img width="376" height="43" alt="Captura de tela 2025-08-29 204528" src="https://github.com/user-attachments/assets/6a9c32f1-30d5-42fa-8b52-55d96f56b445" />
+
 
 Para colocar uma imagem da internet basta copiar o endereço da imagem e usar os seguintes comandos: ![descrição da imagem](link do endereço da imagem);
 
